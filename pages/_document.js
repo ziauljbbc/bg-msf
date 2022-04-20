@@ -26,6 +26,7 @@ class MyDocument extends Document {
           <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons" />
           <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
           <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+          <link rel="manifest" href="/manifest.json"/>
         </Head>
         <body>
           <div id="page-transition"></div>
